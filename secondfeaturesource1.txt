@@ -18,3 +18,4 @@ BEGIN OF 3RD DEVELOPMENT
 while release-1.0 has been delivered we will make some changes second feature
 
 END OF 3RD DEVELOPMENT
+bumped version to 2.0

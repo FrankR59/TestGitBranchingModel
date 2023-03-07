@@ -17,3 +17,4 @@ BEGIN 3RD DEVELOPMENT
 third feature bumped to relaese 1.0
 
 END 3RD DEVELEOPMENT
+bumped version to 2.0
