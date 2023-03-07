@@ -1,3 +1,37 @@
 First source file
 =================
 
+after staging, comitting and pushing this file to the main
+we created a new Branch "develop" and pushed it.
+
+Now we can do some development here
+perhaps with some mystakes that shall be hotfixed later on.
+
+END OF FIRST DEVELOPEMENT
+
+BEGIN OF 2ND DEVELOPMENT
+
+this is the 2nd step
+here without any typos.
+
+END OF 2ND DEVELOPEMENT
+
+BEGIN OF 3RD DEVELOPMENT
+
+of course we should call our firstfeature here
+
+END OF 3RD DEVELOPMENT
+
+
+BEGIN OF 4TH DEVELOPMENT
+
+wen eed to do a little change in order to incorporate 3rd feature
+
+END OF 4TH DEVELOPMENT
+
+BEGIN OF 5TH DEVELOPMENT
+
+preparing for release 1.0
+bumped to release 1.0
+
+END OF 5TH DEVELOPMENT

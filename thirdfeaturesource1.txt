@@ -1,0 +1,19 @@
+First source file for third feautre
+===================================
+
+Here we have a wonderful development without any errors
+
+END OF 1ST DEVELOPMENT
+
+BEGIN OF 2ND DEVELOPMENT
+
+second and last evelopment for this feature
+Again without errors.
+
+END OF 2ND DEVELOPMENT
+
+BEGIN 3RD DEVELOPMENT
+
+third feature bumped to relaese 1.0
+
+END 3RD DEVELEOPMENT
