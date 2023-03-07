@@ -1,0 +1,12 @@
+Second source file for second feature
+=====================================
+
+further development for second feature
+
+END 1ST DEVELOPMENT
+
+BEGIN 2ND DEVELOPMENT
+
+second and last development for feature 2
+
+END 2ND DEVELOPMENT
