@@ -1,0 +1,6 @@
+First source file for third feautre
+===================================
+
+Here we have a wonderful development without any errors
+
+END OF 1ST DEVELOPMENT
