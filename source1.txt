@@ -8,3 +8,10 @@ Now we can do some development here
 perhups with some mystakes that shall be hotfixed later on.
 
 END OF FIRST DEVELOPEMENT
+
+BEGIN OF 2ND DEVELOPMENT
+
+this is the 2nd step
+here without any typos.
+
+END OF 2ND DEVELOPEMENT
