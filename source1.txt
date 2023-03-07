@@ -5,7 +5,7 @@ after staging, comitting and pushing this file to the main
 we created a new Branch "develop" and pushed it.
 
 Now we can do some development here
-perhaps with some mystakes that shall be hotfixed later on.
+perhaps with some mistakes that shall be hotfixed later on.
 
 END OF FIRST DEVELOPEMENT
 
@@ -35,3 +35,7 @@ preparing for release 1.0
 bumped to release 1.0
 
 END OF 5TH DEVELOPMENT
+
+BEGIN OF 6TH DEVELOPMENT
+fixed the word "mystakes" to "mistakes"
+END OF 6TH DEVELOPMENT
