@@ -5,7 +5,7 @@ after staging, comitting and pushing this file to the main
 we created a new Branch "develop" and pushed it.
 
 Now we can do some development here
-perhups with some mystakes that shall be hotfixed later on.
+perhaps with some mystakes that shall be hotfixed later on.
 
 END OF FIRST DEVELOPEMENT
 
