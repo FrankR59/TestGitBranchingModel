@@ -38,4 +38,5 @@ END OF 5TH DEVELOPMENT
 
 BEGIN OF 6TH DEVELOPMENT
 fixed the word "mystakes" to "mistakes"
+bumped version to 1.0.1
 END OF 6TH DEVELOPMENT
