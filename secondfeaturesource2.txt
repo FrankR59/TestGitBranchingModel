@@ -10,3 +10,4 @@ BEGIN 2ND DEVELOPMENT
 second and last development for feature 2
 
 END 2ND DEVELOPMENT
+bumped version to 2.0
