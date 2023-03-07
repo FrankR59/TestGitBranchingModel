@@ -47,4 +47,5 @@ END OF 7TH DEVELOPMENT
 
 BEGIN OF 8TH AND LAST DEVELOPMENT
 some change in here and fixes to all remaining typos
+bumped version to 1.2
 END OF 8TH AND LAST DEVELOPMENT
