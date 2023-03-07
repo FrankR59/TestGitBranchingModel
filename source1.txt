@@ -32,5 +32,6 @@ END OF 4TH DEVELOPMENT
 BEGIN OF 5TH DEVELOPMENT
 
 preparing for release 1.0
+bumped to release 1.0
 
 END OF 5TH DEVELOPMENT

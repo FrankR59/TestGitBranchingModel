@@ -10,3 +10,9 @@ BEGIN 2ND DEVELOPMENT
 Second and last development for first feautre
 
 END 2ND DEVELEOPMENT
+
+BEGIN 3RD DEVELOPMENT
+
+first feature bumped to relaese 1.0
+
+END 3RD DEVELEOPMENT
