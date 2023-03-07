@@ -12,3 +12,9 @@ BEGIN OF 2ND DEVELOPMENT
 here we can place another little errrrror that shall be hotfixed later
 
 END OF 2ND DEVELOPMENT
+
+BEGIN OF 3RD DEVELOPMENT
+
+while release-1.0 has been delivered we will make some changes second feature
+
+END OF 3RD DEVELOPMENT
