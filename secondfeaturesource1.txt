@@ -1,0 +1,8 @@
+First source file for second feature
+====================================
+
+development for second feature
+This one shall last  over a longer period
+for a future release
+
+END OF FIRST DEVELOPMENT
