@@ -25,7 +25,7 @@ END OF 3RD DEVELOPMENT
 
 BEGIN OF 4TH DEVELOPMENT
 
-wen eed to do a little change in order to incorporate 3rd feature
+we need to do a little change in order to incorporate 3rd feature
 
 END OF 4TH DEVELOPMENT
 
@@ -44,3 +44,7 @@ END OF 6TH DEVELOPMENT
 BEGIN OF 7TH DEVELOPMENT
 bumped version to 1.1
 END OF 7TH DEVELOPMENT
+
+BEGIN OF 8TH AND LAST DEVELOPMENT
+some change in here and fixes to all remaining typos
+END OF 8TH AND LAST DEVELOPMENT
