@@ -7,7 +7,7 @@ END OF 1ST DEVELOPMENT
 
 BEGIN OF 2ND DEVELOPMENT
 
-second and last evelopment for this feature
+second and last development for this feature
 Again without errors.
 
 END OF 2ND DEVELOPMENT
