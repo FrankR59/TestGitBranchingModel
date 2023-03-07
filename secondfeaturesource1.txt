@@ -6,3 +6,9 @@ This one shall last  over a longer period
 for a future release
 
 END OF FIRST DEVELOPMENT
+
+BEGIN OF 2ND DEVELOPMENT
+
+here we can place another little errrrror that shall be hotfixed later
+
+END OF 2ND DEVELOPMENT
